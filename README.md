@@ -1,7 +1,7 @@
 # Educational-Initiatives_TCE26
 # Design Patterns in Java (Exercise 1)
 
-## Overview
+## 🎯 Overview
 This project demonstrates practical use cases of **Software Design Patterns** in Java. It covers:
 
 - **Behavioral Patterns:** Observer, Strategy  
