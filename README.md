@@ -1,4 +1,16 @@
-# Educational-Initiatives_TCE26
+# Educational-Initiatives_TCE26 
+**Ananth**  
+
+- **Email:** anxnth@gmail.com  
+- **GitHub:** [https://github.com/anxnth-byte](https://github.com/anxnth-byte)  
+- **College/Institute:** Thiagarajar College of Engineering  
+
+---
+
+## About Me
+I am a passionate software developer learning and implementing Java design patterns.  
+This repository showcases my understanding of behavioral, creational, and structural design patterns with practical examples.
+
 # Design Patterns in Java (Exercise 1)
 
 ## 🎯 Overview
@@ -117,11 +129,3 @@ The project follows **best practices with logical separation of concerns** enfor
 - Only **admin users** can execute configuration and booking operations.
 
 ---
-
-## 📝 How to Run and Test
-
-### Clone and Compile:
-```bash
-git clone [YOUR_REPOSITORY_URL]
-cd [YOUR_PROJECT_ROOT]
-mvn clean install
