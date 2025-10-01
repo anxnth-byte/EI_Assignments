@@ -1,5 +1,5 @@
 # Educational-Initiatives_TCE26 
-**Ananth**  
+**Ananth N**  
 
 - **Email:** anxnth@gmail.com  
 - **GitHub:** [https://github.com/anxnth-byte](https://github.com/anxnth-byte)  
